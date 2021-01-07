@@ -1,0 +1,7 @@
+Date;Exposure;InvestmentType;Quanity;ReferenceNum;Fund;Portfolio
+11/30/2020;Equity;Stock;10;XBC2020;AAAA;
+11/30/2020;Cash;Cash;500;C_USD;BBBB;
+11/30/2020;Private Placement;Bond;50;EXT_5;FNMA;
+11/30/2020;FixedIncome;CommonBond;1;BTC33131324;CCCC;
+11/30/2020;Equity;Stock;100;BDH1515;AAAA;
+11/30/2020;Equity;Stock;40;B6TTBB63;BBBB;
